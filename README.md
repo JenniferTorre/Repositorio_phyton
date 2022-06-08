@@ -1,2 +1,2 @@
 # Repositorio_phyton
-Ejercicio de liderazgo
+Ejercicio de liderazgo Equipo 1
